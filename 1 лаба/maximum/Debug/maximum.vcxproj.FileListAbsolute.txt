@@ -1,0 +1,4 @@
+C:\Users\Latitude\source\repos\maximum\Debug\maximum.exe
+C:\Users\Latitude\source\repos\maximum\Debug\maximum.pdb
+C:\Users\Latitude\Desktop\Кривий\враіант\Микола\1 лаба\maximum\Debug\maximum.exe
+C:\Users\Latitude\Desktop\Кривий\враіант\Микола\1 лаба\maximum\Debug\maximum.pdb
